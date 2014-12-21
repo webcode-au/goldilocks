@@ -1,0 +1,8 @@
+# Site name
+name: "Goldilocks"
+
+# Exclusions
+exclude: [README.md, start, bower.json]
+
+
+

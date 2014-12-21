@@ -1,0 +1,24 @@
+body {
+  font: 2em/2em "Libertine", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+  word-spacing: 0.1em;
+}
+
+h1, h2, p {
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+header {
+	background-image: url('/assets/images/header/goldilocks3.jpg');
+	background-repeat: no-repeat;
+	height: 198px;
+}
+
+
