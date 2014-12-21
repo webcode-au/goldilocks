@@ -16,9 +16,9 @@ h2 {
 }
 
 header {
-	background-image: url('/assets/images/header/goldilocks3.jpg');
-	background-repeat: no-repeat;
-	height: 198px;
+	zbackground-image: url('/assets/images/header/goldilocks3.jpg');
+	zbackground-repeat: no-repeat;
+	zheight: 198px;
 }
 
 
